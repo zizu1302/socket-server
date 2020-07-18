@@ -1,6 +1,6 @@
 import { Router, Request, Response  } from "express";
 
-
+//Peticiones REST
 
 
 const router = Router();
